@@ -1,5 +1,4 @@
-{
-    "feed": [
+ [
         {
             "id": 1,
             "name": "National Geographic Channel",
@@ -109,4 +108,3 @@
             "url": ""
         }
     ]
-}
